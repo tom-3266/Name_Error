@@ -29,4 +29,4 @@ def leap_yr_20(n):
 ​
 n = int(input("Enter the year : "))
 list1 = leap_yr_20(n)
-print("These are the leap years after given year {} with sum greater than 16 : ".format(n),list1)
+print("These are the 20 leap years after given year {} with sum greater than 16 : ".format(n),list1)
